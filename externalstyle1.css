@@ -1,0 +1,32 @@
+
+
+header
+{
+    background-image:url(../images/Newspaper-PNG-Picture.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.nav-menu{
+    float:right;
+    list-style: none;
+    margin-top: 30px;
+}
+.nav-menu li{
+    display: inline-block;
+}
+.nav-menu li a{
+    color:aqua;
+    padding: 5px 20 px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-decoration: none;
+}
+.nav-menu  button:hover{
+background-image: linear-gradient(black,blue);
+}
+.homebn
+{
+    background-image: linear-gradient(black,blue);
+    background-color:blue ;
+}
